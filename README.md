@@ -26,9 +26,45 @@ How does effective cost control contribute to the success of a software project?
   
 Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
+~ Waterfall methodology is a linear, step by step approach that is ideal for projects with a clear scope and defined timeline. It involves rigorous upfront planning to ensure that the project stays on track, with the progress closely tracked and issues addressed promptly. This methodology involves five project management phases namely: initiation, planning, execution, monitoring/control and closing. 
+Waterfall project management best suits well-defined projects with clearly specified requirements, limited complexity, and a definitive timeline. Waterfall works well when the customer's demands are precise and when there are no significant changes in scope or technology during the project.
+
+Advantages of waterfall include:
+* Supports all planning to take place upfront with a clear roadmap for every stage of the project.
+* Applies a clear, structured approach.
+* Easy to track progress, identify risks and manage project budget.
+* The Project manager holds significant authority over the project, plan and value delivery
+Disadvantages of waterfall include:
+* Long delivery timeline, slow to market.
+* Value of projects is low until the very end.
+* Challenges to see the value of completed tasks throughout the project if only released at the end.
+* Challenges require significant replanning and adjustment to long-term plans.
+
+~ Agile methodology is a flexible and iterative approach that enables teams to quickly adapt to changing project deliverables and deliver high quality results within short timeframes. This is usually achieved through teamwork, constant refinement, breaking of big cprojects into smaller chunks, communication and collaboration.
+Agile project management is a good fit in cases where the end goal may be unclear or difficult to define, when complex systems require frequent feedback loops, or when timelines and budgets are tight. It is also particularly effective for developing software applications since it allows for quick iteration and testing along the way. Additionally, agile can be helpful when dealing with teams who need to collaborate intensively, such as those located in different locations.
+
+Advantages of Agile methodology includes:
+* Handles changes to requirements along the way.
+* Shorter feedback loops mean faster ability to pivot.
+* Clear visibility of current work items and ability to see progress on tasks over time.
+* support for testing, improving quality in output.
+Disadvantages of Agile method includes:
+* Allows for additional feature requests which may add cost or time creating scope creep.
+* Iterative development may lead to engineering refactoring due to changes over time.
+* Project manager holds little authority.
+* Requires customer involvement to allow teams to identify and analyse customer needs.
 
 In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
+~ Agile method is suitable for the below types of projects:
+    Technical projects: Agile provides teams with an organized approach to developing complex software or products. Multiple teams can collaborate orderly, without a 45-person planning or re-planning meeting.
+    Creative projects: Projects that involve a lot of creative problem-solving benefit from an agile approach as it allows for more experimentation and innovative thinking.
+    Product innovation and development: Organizations that need to stay ahead of their competition by developing new products or improving existing ones will benefit from an agile workflow, as it allows team members to have increased flexibility throughout the process.
+    Startups: They often need to deliver products or services with limited resources quickly. Agile methods allow them to develop and implement ideas more rapidly, allowing for rapid prototyping and iteration on the fly.
+    Rapid prototyping: Agile can be used to quickly prototype and deliver an end product with high quality without spending too much time on planning, sourcing, approvals, etc.
+
+
+~ Waterfall method is suitable for construction and manufacturing projects that require extensive planning at the onset.
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
