@@ -68,26 +68,60 @@ In what types of projects might Agile be more beneficial than Waterfall, and vic
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
+    ~ A quality management approach.
+   ~  Formal technical reviews.
+   ~  Multi testing strategy.
+   ~  Effective software engineering technology.
+    ~ Measurement and reporting mechanism.
+
+ Benefits of Quality Assurance (SQA)
+
+   ~  QA produces high quality software.
+  ~  High quality application saves time and cost.
+  ~  QA is beneficial for better reliability.
+   ~ QA is beneficial in the condition of no maintenance for a long time.
+  ~  High quality commercial software increase market share of company.
+  ~  Improving the process of creating software.
+  ~  Improves the quality of the software.
+  ~  It cuts maintenance costs. Get the release right the first time, and your company can forget about it and move on to the next big thing. Release a product with chronic issues, and your business bogs down in a costly, time-consuming, never-ending cycle of repairs.
 
 How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+~ Defining project scope ensures that the project is delivered as per plan, project team members stay on course and there are no deviations along the way. A workbreakdown structure is a hierachical and increamental decomposition of project deliverables. It contains the phases of a project from the major ones to the smallest of all also referred to as packages. It is a tree structure, which shows a subdivision of effort required to achieve an objective, for example, a program, project, and contract. The importance of a WBS is that it defines and organises the project.
 
 
 What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+~ It is important to develop a detailed project schedule, which ensures tasks are completed on time and within the budget.
+~ It communicates project timeline to all stakeholders.
+~ It helps project managers plan and track the timeline of the project.
+A gantt chart helps project managers to plan their work visually as it has features that can support a visual presentation of project schedule.
 
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-
+~ accessibility of clean water for example. This is essential since clean water is important for the livelihood of people regardless of location.
 
 How can clearly defining the problem help in developing a more effective software solution?
 
+~ It enhances understanding of the problem, guides in search for solutions and improves communication among the stakeholders.
 
 How would you describe your software solution in a way that captures its essence without diving into technical details?
-
+~ Engage the audience captivatingly.
+~ Share the problem that you are addressing.
+~ Explain how your software solves this problem.
+~ Show a demo(if possible you can include short videos)
+~ Call to action be it funding, partnership or users.
 
 What are the main features or functionalities that make your software stand out?
 
+~  structure, function(s), behavior and interconnectivity.
 
 What data is available regarding the market size and growth potential for your software?
 
+~ through research, data is compiled to determine whether the project will be feasible or not and whether there is a potential for growth.
 
 How can understanding market trends inform your software’s positioning and development?
+
+~understanding a software's positioning and development helps startups create products or services that resonate with their target audiences and address unmet needs.
+
+
+
